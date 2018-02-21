@@ -1,0 +1,7 @@
+linux2
+1024
+Spam!Spam!Spam!
+
+# -*- coding: utf-8 -*- установка кодировки пишем в начале файла
+
+python First.py > saveit.txt сохранение в фаил
